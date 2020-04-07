@@ -4,12 +4,12 @@
 
 <h3 align = "center"> Doe Sangue - MaratonaDev 3.0</h3>
 
-## O projeto
+## :computer: O projeto
 
 <p>O proejto Doe Sangue é uma sistema para cadastro de doadores de sangue, onde serão armazenados dados (nome, email, tipo sanguíneo) 
 desses doadores em um banco de dados.</P>
 
-## Tecnologias
+## :rocket: Tecnologias
 
 Durante o desenvolvimento desse projeto foram utilizadas as seguintes tecnoligias:
 
@@ -22,7 +22,7 @@ Durante o desenvolvimento desse projeto foram utilizadas as seguintes tecnoligia
 - [PostgreSQL](https://www.postgresql.org/)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## Banco de Dados
+## :elephant: Banco de Dados
 
 Para armazenar os dados dos doadores utilizamos o PostgreSQL, onde criamos o banco chamado **'doe'**, com a tabela chamada **'donors'**.
 Segue o código SQL para criar a tabela:
